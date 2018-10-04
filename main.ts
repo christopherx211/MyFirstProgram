@@ -18,7 +18,7 @@ class MyfirstProgram {
        console.log('this method runs last!');
    }
    runMiddle() {
-       console.log('this code runs in between the other two functions...');
+       console.log('this code runs in between the other two functions...!');
        
    }
 }
