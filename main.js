@@ -16,7 +16,7 @@ var MyfirstProgram = /** @class */ (function () {
         console.log('this method runs last!');
     };
     MyfirstProgram.prototype.runMiddle = function () {
-        console.log('this code runs in between the other two functions...');
+        console.log('this code runs in between the other two functions...!');
     };
     return MyfirstProgram;
 }());
