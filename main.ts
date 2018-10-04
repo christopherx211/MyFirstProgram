@@ -17,6 +17,10 @@ class MyfirstProgram {
    runLast(){
        console.log('this method runs last!');
    }
+   runMiddle() {
+       console.log('this code runs in between the other two functions...');
+       
+   }
 }
 
 const newInstance = new MyfirstProgram("a", "b", "c");
